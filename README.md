@@ -1,12 +1,18 @@
-# 💬 Analizador de Sentimiento Multilingüe
+# 🛡️ Cybersecurity Dashboard from Logs
 
-Este proyecto utiliza un modelo BERT multilingüe para detectar sentimiento en texto.
+A lightweight log analysis dashboard that identifies the most active IP addresses, threat types, and attack categories.
 
-## 🚀 Funciones
-- Clasificación de 1 a 5 estrellas.
-- Confianza en la predicción.
-- Interfaz simple con Gradio.
+The application runs with Gradio and provides an interactive interface for analyzing cybersecurity logs.
 
-## ▶️ Instalación
+## 🚀 Features
+
+- Log file analysis
+- Detection of most active IP addresses
+- Identification of threat types
+- Attack category analysis
+- Interactive Gradio interface
+
+## ▶️ Installation
+
 ```bash
 pip install -r requirements.txt
